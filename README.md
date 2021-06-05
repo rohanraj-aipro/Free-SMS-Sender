@@ -13,7 +13,7 @@ This Script Works On Any OS with Python Installed
 
 Installation:-  For Debian (Kali Linux)
 
- git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
+ $ git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
 
  cd Free-SMS-Sender
 
