@@ -1,4 +1,4 @@
-# Free-SMS-Sender 
+# Anonymous Free-SMS-Sender 
 
 Note = You Can only Send 1 SMS Per day !
 
