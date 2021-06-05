@@ -35,6 +35,6 @@ def status() :
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
 os.system("toilet --gay -f ascii9.tlf 'SMS_Sender' ")
-print("\033[96mMade with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
+print("\033[96mMade with Love by --Hacker Rohan Raj--")
 menu()
 control()
