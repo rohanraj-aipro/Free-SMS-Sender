@@ -6,7 +6,7 @@ print("\033[91m Checking dependencies... \033[0m")
 time.sleep(2)
 os.system("bash Requirements.sh")
 def menu() :
-    print(Send a Message to Any Number\")
+    print(Send a Message to Any Number")
     print("Check if the Message is Delivered or not")
 def control() :
     ctrl = input("What are You Gonna Choose : ")
