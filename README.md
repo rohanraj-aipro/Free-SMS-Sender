@@ -2,15 +2,17 @@
 
 Note = You Can only Send 1 SMS Per day !
 
-Installation:-  For Debian
+Works on Ubuntu, Windows 10, Kali Linux etc
 
-git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
+Installation:-  For Debian (Kali Linux)
 
-cd Free-SMS-Sender
+ git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
 
-chmod +x SMS-SENDER.py
+ cd Free-SMS-Sender
 
-python3 SMS-SENDER.py
+ chmod +x SMS-SENDER.py
+
+ python3 SMS-SENDER.py
 
 
 Enjoy!!
