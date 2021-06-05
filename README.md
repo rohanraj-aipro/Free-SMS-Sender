@@ -1,8 +1,8 @@
 # Anonymous Free-SMS-Sender 
 
-Note = You Can only Send 1 SMS Per day !
+## Note = You Can only Send 1 SMS Per day !
 
-Note:
+## Instructions:-
 1):-   This Script Needs an Internet Connection
 2):-   No Money onr Balance will be deducted for Using this Script
 3):-   Don't put spaces in between phone number (Ex- 99999 99999)
@@ -11,30 +11,31 @@ Note:
 
 This Script Works On Any OS with Python Installed
 
-Installation:-  For Debian (Kali Linux)
+## Installation:-  For Debian (Kali Linux):-
 
- $ git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
+```
+ git clone https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender.git
 
+```
+```
  cd Free-SMS-Sender
-
+```
+```
  chmod +x SMS-SENDER.py
-
+```
+```
  python3 SMS-SENDER.py
- 
- Installation:-  For Windows 10 
- 
- 
+ ```
 
 
+# Enjoy!!
 
-Enjoy!!
+# Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️
 
-Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️
+# If any Issues, Please Let Me Know
 
-If any Issues, Please Let Me Know
+# Checkout My Youtube Channel:-  
 
-Checkout My Youtube Channel:-  
+# https://www.youtube.com/channel/UC-5qgYN77ce7rfgiQ8jidtQ
 
-https://www.youtube.com/channel/UC-5qgYN77ce7rfgiQ8jidtQ
-
-More Amazing Scripts will Be Released Soon !
+# More Amazing Scripts will Be Released Soon !
