@@ -35,7 +35,7 @@ def status() :
   textID = input("Enter textID of sms : ") 
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
-os.system("toilet --gay -f ascii9.tlf 'Free_SMS_Sender' ")
+os.system("toilet -f 3D-ASCII.flf 'SMS_Sender' ")
 print("\033[96mCoded by - Rohan Raj")
 menu()
 control()
