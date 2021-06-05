@@ -1,6 +1,6 @@
-# Anonymous Free-SMS-Sender 
+<p align="center">  # Anonymous Free-SMS-Sender 
 
-## Note = You Can only Send 1 SMS Per day !
+<p align="center"> ## Note = You Can only Send 1 SMS Per day !
 
 ## Instructions:-
 - 1):-   This Script Needs an Internet Connection
