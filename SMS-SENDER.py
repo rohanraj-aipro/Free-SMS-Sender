@@ -3,7 +3,6 @@ print("Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
 print("Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
 print("Version 1.0")
 print("\033[91m Checking dependencies... \033[0m")
-time.sleep(2)
 os.system("bash Requirements.sh")
 def menu() :
     print("Send a Message to Any Number")
