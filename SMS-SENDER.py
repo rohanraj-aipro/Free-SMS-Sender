@@ -1,7 +1,6 @@
 import requests
 import os
 print("Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
-print("Made with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
 print("Version 1.0")
 print("\033[91m Checking dependencies... \033[0m")
 os.system("bash Requirements.sh")
@@ -36,6 +35,6 @@ def status() :
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
 os.system("toilet --gay -f ascii9.tlf 'SMS_Sender' ")
-print("\033[96mCoded by - Rohan Raj")
+print("\033[96mMade with Love by ❤️❤️❤️Rohan Raj❤️❤️❤️")
 menu()
 control()
